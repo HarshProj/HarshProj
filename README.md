@@ -3,7 +3,12 @@
 
 [![An image of @harshproj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshproj)](https://holopin.io/@harshproj)
 
-## 👋 Hi, I’m @HarshProj
+ <div align="centre">  
+   
+ ## 👋 Hi, I’m @HarshProj
+ 
+ </div>
+
 - 👀 Feel free to connect with me or check out my projects! 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
