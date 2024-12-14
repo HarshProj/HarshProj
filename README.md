@@ -3,7 +3,7 @@
 
 [![An image of @harshproj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshproj)](https://holopin.io/@harshproj)
 
- <div align="centre">  
+ <div align="center">  
    
  ## 👋 Hi, I’m @HarshProj
  
