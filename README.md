@@ -80,8 +80,8 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 [![An image of @harshproj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshproj)](https://holopin.io/@harshproj)
 - 
 
-![Harsh's hackSquad | Stash](![image](https://github.com/user-attachments/assets/95f58ce1-8b8e-4006-82a7-da384e015be6)
-)
+![image](https://github.com/user-attachments/assets/95f58ce1-8b8e-4006-82a7-da384e015be6)
+
 <!---
 HarshProj/HarshProj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
