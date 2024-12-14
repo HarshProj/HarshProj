@@ -1,3 +1,8 @@
+
+
+
+[![An image of @harshproj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshproj)](https://holopin.io/@harshproj)
+
 ## 👋 Hi, I’m @HarshProj
 - 👀 Feel free to connect with me or check out my projects! 
 
@@ -26,7 +31,7 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 - Backend: **Node.js**, **Express**, **MongoDB**.
 - Tools: **Git**, **Postman**.
 
-  ### Connect with me:
+  ### Socials:
 
 <p align="left">
   <a href="https://x.com/HarshChauh84647" target="_blank">
@@ -76,13 +81,8 @@ I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and
 
 
 
-
-[![An image of @harshproj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshproj)](https://holopin.io/@harshproj)
 - 
 
 ![image](https://github.com/user-attachments/assets/95f58ce1-8b8e-4006-82a7-da384e015be6)
 
-<!---
-HarshProj/HarshProj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
