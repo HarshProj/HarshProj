@@ -19,6 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=HarshProj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </div>
 
+![Image](https://github.com/user-attachments/assets/e61fefb1-2f87-4538-9ee1-18c2eeed5fef)
+
 I'm a passionate **full-stack developer** with a strong focus on **ReactJS** and the **MERN stack**. Currently pursuing a **Bachelor's in Computer Science** at Kamla Nehru Institute of Technology, Sultanpur, I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 
 ### 🌱 What I'm Working On:
